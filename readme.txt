@@ -26,11 +26,3 @@ To run the IPython notebook, you need to provide an OpenAI API key to correctly 
     ```bash
     pip install -r requirements.txt
     ```
-
-4. Open the IPython notebook and follow the instructions provided in the notebook to run the code.
-
-Please note that the OpenAI API key is required to access the embedding function and should be kept confidential.
-
-## License
-
-This project is licensed under the terms of the MIT License. See the license file for more details.
