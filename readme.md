@@ -4,11 +4,11 @@ This repository contains the code for the paper "Development of a national datab
 
 ## Tutorial
 
-A tutorial explaining the process used in the paper is provided in a Google Colab format. You can find the tutorial here https://github.com/dellacortelab/nhanes_gigl/blob/main/tutorial/Dietary_GI_GL_Tutorial.ipynb.
+A tutorial explaining the process used in the paper is provided in a Google Colab format. You can find the tutorial [here](https://github.com/dellacortelab/nhanes_gigl/blob/main/tutorial/Dietary_GI_GL_Tutorial.ipynb).
 
 ## Alignment Code
 
-The alignment code to generate initial GI database alignments with NHANES food groups is provided as an IPython notebook (`.ipynb`). You can find the code [here](link-to-alignment-code).
+The alignment code to generate initial GI database alignments with NHANES food groups is provided as an IPython notebook (`.ipynb`). You can find the code [here](https://github.com/dellacortelab/nhanes_gigl/blob/main/src/ai_alignment.ipynb).
 
 ### Running the IPython Notebook
 
