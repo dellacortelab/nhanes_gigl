@@ -26,3 +26,13 @@ To run the IPython notebook, you need to provide an OpenAI API key to correctly 
     ```bash
     pip install -r requirements.txt
     ```
+
+## Data Sharing Policy
+This repository contains code related to our GI/GL database research, but does not include the full national glycemic index (GI) and glycemic load (GL) database itself. The GI/GL database is maintained and updated by the lead authors at Brigham Young University. We will share the database for non-commercial research usage with qualified investigators through collaborative efforts under the following process:
+
+1. Interested researchers should submit a proposal to the project PIs (karen_dellacorte@byu.edu, dennis.dellacorte@byu.edu) specifying the proposed analysis and which components of the GI/GL database will be utilized.
+2. A signed data use agreement must be provided covering all analysts who will access the data.
+3. Formal data requests can then be made to the project team, who will securely transfer the files.
+4. Annual status updates on data usage are required.
+
+Please contact the PIs if you have any other questions about accessing this data.
